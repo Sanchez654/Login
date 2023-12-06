@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831070871373",
+    "project_id": "tofindteacher",
+    "storage_bucket": "tofindteacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831070871373:android:23c69251c8bc47dcb2e104",
+        "android_client_info": {
+          "package_name": "me.alex.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5jsVJzDwq-hhc93piLEJhk_lIFQO5FRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
